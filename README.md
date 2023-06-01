@@ -2,7 +2,7 @@
 
 
 ###  
-- [Здесь вы можете ознакомиться с заданием и запросы для постман](https://docs.google.com/document/d/1TiThW-q3gCP7lth5fxJdBFYByc_iLSnHirBar93isqg/edit?usp=sharing)
+- [Здесь вы можете ознакомиться с заданием](https://docs.google.com/document/d/1TiThW-q3gCP7lth5fxJdBFYByc_iLSnHirBar93isqg/edit?usp=sharing)
 
 
 
